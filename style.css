@@ -135,8 +135,6 @@
             font-size: 1.5rem;
             cursor: pointer;
         }
-
-        /* Section Styling */
         .section {
             min-height: 100vh;
             width: 100%;
@@ -328,6 +326,7 @@
                 font-size: 1.3rem;
             }
         }
+
 
 
 
