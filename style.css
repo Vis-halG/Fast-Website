@@ -127,7 +127,6 @@
             transform: translateY(-1px);
         }
 
-        /* Mobile Menu Toggle */
         .menu-toggle {
             display: none;
             background: none;
@@ -329,5 +328,6 @@
                 font-size: 1.3rem;
             }
         }
+
 
 
