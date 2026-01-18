@@ -15,7 +15,6 @@
             line-height: 1.6;
         }
 
-        /* Floating Navbar */
         .navbar {
             position: fixed;
             top: 20px;
@@ -331,3 +330,4 @@
                 font-size: 1.3rem;
             }
         }
+
